@@ -11,7 +11,7 @@ function arrayIncludes(arr, values){
 }
 
 //Test Suite
-describe('functions', function () {
+describe('functions 2', function () {
 
 	describe('Problem 1 - keyword', function () {
 		it('should be a function', function () {
